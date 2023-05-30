@@ -8,12 +8,18 @@ In this course, we start with an introduction to GT and complex network analysis
 
 **Learning Objectives**
 
-TODO
+At the end of this course, you will learn about the followings:
+
++ Introductory concepts about Graph Theory (GT) and its applications.
++ Create, analyze, and visualize networks created using NetworkX module.
++ Caracterize and compare networks using properties of network's topology.
++ Using traditional centrality metrics and distinguish between them for practical applications.
++ Performing analyzes for networks which changes across time (longitudinal analyses). 
 
 
 **Prerequisites**
 
-It requires intermediate experience in Python or other programming languages plus basic notions of linear algebra.
+It requires experience in Python using NumPy and Matplotlib or other similar packages or programming languages. Basic notions of linear algebra are desirable.
 
 **References**
 
