@@ -27,7 +27,7 @@ This course is mainly based on two references:
 1. Van Steen, M. (2010). Graph theory and complex networks. An introduction.
 2. Newman, M. (2010). Networks: An Introduction.
 
-However, the full list of references can be found at the very end of each section (jupyter notebook).
+The full list of references can be found at the very end of each section (jupyter notebook).
 
 ---
 
