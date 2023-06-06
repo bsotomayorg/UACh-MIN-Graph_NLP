@@ -31,4 +31,4 @@ The full list of references can be found at the very end of each section (jupyte
 
 ---
 
-_This course was created as a section of the course "Data Mining and Learning", Master in Informatics program, [Austral University of Chile](http://www.ingenieria.uach.cl/postgrado/min.html), Faculty of Engineering Sciences, Chile. 2023._
+_This course was created as a section of the course "Data Mining and Learning", Master in Informatics program. [Austral University of Chile](http://www.ingenieria.uach.cl/postgrado/min.html), Faculty of Engineering Sciences, Chile. 2023._
